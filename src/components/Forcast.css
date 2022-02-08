@@ -1,0 +1,58 @@
+.inputFor {
+  display: block;
+  padding: 0.5em;
+  font: inherit;
+  border-radius: 4px;
+  width: 20rem;
+  margin-bottom: 0.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.forcastboxapi {
+  height: auto;
+  width: auto;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+input.react-date-picker__inputGroup__input:nth-child(2) {
+  width: 12px !important ;
+  margin-left: 5px;
+}
+input.react-date-picker__inputGroup__input:nth-child(4) {
+  width: 20px !important;
+  margin-left: 3px;
+}
+
+input.react-date-picker__inputGroup__input:nth-child(6) {
+  width: 40px !important;
+  margin-left: 3px;
+}
+
+.react-date-picker {
+  display: block !important;
+  position: relative;
+}
+
+.react-date-picker,
+.react-date-picker *,
+.react-date-picker ::before,
+.react-date-picker ::after {
+  box-sizing: border-box;
+  border-radius: 4px !important;
+}
+
+.react-date-picker__inputGroup {
+  min-width: calc((4px * 3) + 0.54em * 8 + 0.217em * 2);
+  flex-grow: 1;
+  padding: 7px 2px !important;
+  box-sizing: content-box;
+}
+.buttonFor {
+  background-color: rgb(60, 103, 131);
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+  width: 21rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}

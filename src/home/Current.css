@@ -1,0 +1,9 @@
+.currentbox {
+  height: auto;
+  width: 100%;
+  background-color: rgb(131, 191, 206);
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+}

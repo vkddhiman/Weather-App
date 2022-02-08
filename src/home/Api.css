@@ -1,0 +1,36 @@
+.main {
+  width: 100%;
+  height: calc(100vh - 22.6rem);
+  justify-content: center;
+}
+
+.current {
+  width: 100%;
+  height: auto;
+}
+
+.input {
+  margin-top: 1rem;
+  display: block;
+  padding: 0.5em;
+  font: inherit;
+  border-radius: 4px;
+  width: 20rem;
+  margin-bottom: 0.5rem;
+}
+
+.button {
+  background-color: rgb(60, 103, 131);
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+  width: 21rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  /* margin-left: -279px; */
+}
+.details {
+  display: flex;
+  height: auto;
+  width: 100%;
+}

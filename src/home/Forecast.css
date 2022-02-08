@@ -1,0 +1,14 @@
+.forecastDate {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+
+.boxx {
+  border: 1px solid rgb(172, 98, 139);
+  border-radius: 5px;
+  color: lightgreen;
+  background-color: rgb(172, 98, 139);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 10px;
+}
